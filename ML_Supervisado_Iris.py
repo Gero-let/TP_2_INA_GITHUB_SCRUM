@@ -11,7 +11,10 @@ from sklearn.metrics import accuracy_score
 # Cargar el dataset
 
 # Ruta utilizada en ámbito local:
-df_iris = pd.read_csv(r'C:\Users\gero_\OneDrive\Escritorio\INA\2 CUATRIMESTRE\Desarrollo de IA\Clase 26\archive\Iris.csv')
+# df_iris = pd.read_csv(r'C:\Users\gero_\OneDrive\Escritorio\INA\2 CUATRIMESTRE\Desarrollo de IA\Clase 26\archive\Iris.csv')
+
+# Ruta Normalizada
+df_iris = pd.read_csv('Iris.csv')
 
 # Verificar la cantidad de filas y columnas
 # print(df_iris.shape)
@@ -39,7 +42,7 @@ y = df_iris[[
 
 #Dividir los datos
 X_train, X_test, y_train, y_test = train_test_split(
-    X, y, test_size=0.8, random_state=42
+    X, y, test_size=0.5, random_state=42
     )
 
 # Creamos el modelo
