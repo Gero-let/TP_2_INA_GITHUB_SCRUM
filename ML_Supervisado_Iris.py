@@ -63,7 +63,7 @@ flor5 = [5, 13, 1, 43]
 flor6 = [1, 5, 34, 7]
 flor7 = [15, 19, 20, 45]
 
-flores = np.array([flor1, flor2, flor3, flor4])
+flores = np.array([flor1, flor2, flor3, flor4, flor5, flor6, flor7])
 
 nuevas_flores = pd.DataFrame(
     flores, 
