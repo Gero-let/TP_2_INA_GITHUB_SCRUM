@@ -42,7 +42,7 @@ y = df_iris[[
 
 #Dividir los datos
 X_train, X_test, y_train, y_test = train_test_split(
-    X, y, test_size=0.5, random_state=42
+    X, y, test_size=0.2, random_state=42
     )
 
 # Creamos el modelo
@@ -59,6 +59,9 @@ flor1 = [5, 3, 5, 1]
 flor2 = [6, 6, 7, 4]
 flor3 = [1, 5, 1, 2]
 flor4 = [3, 4.1, 2.3, 3.4]
+flor5 = [5, 13, 1, 43]
+flor6 = [1, 5, 34, 7]
+flor7 = [15, 19, 20, 45]
 
 flores = np.array([flor1, flor2, flor3, flor4])
 
