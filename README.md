@@ -26,5 +26,7 @@ Las predicciones para las 4 flores nuevas son:
 ['Iris-setosa' 'Iris-virginica' 'Iris-setosa' 'Iris-versicolor']
 La precision del modelo es: 100.0%
 
+<img width="745" height="190" alt="image" src="https://github.com/user-attachments/assets/02164705-cf5c-464d-8ae9-1e9393f6d835" />
+
 ## Conclusiones Personales
 Este proyecto sirve para comprender y experimentar el funcionamiento de los modelos de aprendizaje supervisado de Machine Learninig, en particular mediante el modeleo de Árbol de Decision. También apreciamos cómo se trabaja un dataset en un entorno similar a la práctica real, así como el trabajo con librerías específicas para el procesamiento de datos.
