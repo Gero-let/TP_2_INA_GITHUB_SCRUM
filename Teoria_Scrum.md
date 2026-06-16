@@ -14,9 +14,9 @@ Un sprint es el plan establecido de ejecución de determinadas tareas en un tiem
 # 4. Menciona tres ventajas de aplicar Scrum en proyectos de ciencia dedatos o inteligencia artificial.
 Esta metodología presenta diversas ventajas a la hora de utilizarse en proyectos:
 
-* _Como mencioné en el punto anterior, permite tener mayor control sobre las incidencias que surgen en el proyecto gracias a los sprints, lo que evita que los problemas se acumúlen con el tiempo.
-* _Da mayor flexibilidad en caso de que se tengan que realizar modificaciones en el proyecto. Si aparecen o se cambian ciertas necesidades a las que responder en el medio del desarrollo, los sprints nos permiten anticiparnos y avanzar en consecuencia.
-* _La estructura definida es una gran ventaja en la gestión de equipos, ya sea para monitorear el progreso, o para contener conflictos y manejarlos o delegarlos.
+* Como mencioné en el punto anterior, permite tener mayor control sobre las incidencias que surgen en el proyecto gracias a los sprints, lo que evita que los problemas se acumúlen con el tiempo.
+* Da mayor flexibilidad en caso de que se tengan que realizar modificaciones en el proyecto. Si aparecen o se cambian ciertas necesidades a las que responder en el medio del desarrollo, los sprints nos permiten anticiparnos y avanzar en consecuencia.
+* La estructura definida es una gran ventaja en la gestión de equipos, ya sea para monitorear el progreso, o para contener conflictos y manejarlos o delegarlos.
 
 # 5. Si tuvieras que trabajar en equipo utilizando Scrum, ¿qué rol te gustaría desempeñar y por qué?
 Me gustaría trabajar en el equipo de desarrolladores, ya que es el rol que más se amolda a mi experiencia y conocimientos.
